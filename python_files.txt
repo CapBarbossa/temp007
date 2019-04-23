@@ -5,5 +5,4 @@ Product manager demand changes!
 S
 Add several lines from fedoral 27, another computer, another IP.
 
-
-
+This line is from operating system Element, whose IP is 106.
